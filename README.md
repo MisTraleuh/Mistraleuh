@@ -1,4 +1,3 @@
-```
 ## Hello ! Welcome on my github 💻
 ![background](https://user-images.githubusercontent.com/91086003/145602780-5de817bf-e322-4f3d-a483-b0a640083574.gif)
 
