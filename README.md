@@ -13,7 +13,7 @@
 - 📫 *__How to contact me ?__*: [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
 
 ### Portfolio
-> 🎮 : [Video game](https://github.com/EpitechPromo2026/B-MUL-100-MPL-1-1-myhunter-nathan.catalan) (Only in linux)
+> 🎮 : [Video game](https://github.com/CatalanNathan/my_defender) (Only in linux)
 
 > 📝 : [Projects College](https://github.com/CatalanNathan/Projects-Epitech) -> You can find many of my EPITECH projects here (Projects that are not present are in progress)
 
