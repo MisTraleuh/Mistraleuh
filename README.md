@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BF00F7&width=435&lines=Hello+!+It's+Nathan+%F0%9F%98%8A;I'm+a+Back+End+Developer;I+love+learning+new+things+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BF00F7&width=435&lines=Hello+!+It's+Nathan+%F0%9F%98%8A;I'm+a+Back+End+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+learning+new+things+%F0%9F%93%96)](https://git.io/typing-svg)
 
 ## About me
 
@@ -7,14 +7,12 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="20px" height="300px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 📇 First Name : `Nathan`
-- 📓 Second Name : `Catalan`
 - 👨 Age : `19`
 - 🌆 City : `Montpellier`
-- 🏢 College : [Epitech] (Tek 2) 
-- 🗂️ Website College : https://www.epitech.eu/
+- 🏢 College : [Epitech] (2 year)
 
 - 🌱 I’m currently learning [C language]
 - 📫 *__How to contact me ?__*: [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
