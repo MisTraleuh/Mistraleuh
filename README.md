@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="285px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="20px" height="310px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 📇 First Name : `Nathan`
 - 👨 Age : `19`
