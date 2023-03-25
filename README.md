@@ -1,12 +1,19 @@
-## Hello ! Welcome on my github 💻
-![background](https://user-images.githubusercontent.com/91086003/145602780-5de817bf-e322-4f3d-a483-b0a640083574.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BF00F7&width=435&lines=Hello+!+It's+Nathan+%F0%9F%98%8A;I'm+a+Back+End+Developer;I+love+learning+new+things+)](https://git.io/typing-svg)
 
-### About me 
+## About me
+
+<h3 align="center"> I am a developer with a passion for code, ready to take on any challenge and work tirelessly to achieve the goals set. 😄
+</h3>
+
+<br>
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
 - 📇 First Name : `Nathan`
 - 📓 Second Name : `Catalan`
-- 👨 Age : `18`
+- 👨 Age : `19`
 - 🌆 City : `Montpellier`
-- 🏢 College : [Epitech] (Tek 1) 
+- 🏢 College : [Epitech] (Tek 2) 
 - 🗂️ Website College : https://www.epitech.eu/
 
 - 🌱 I’m currently learning [C language]
