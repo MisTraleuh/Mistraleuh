@@ -7,15 +7,16 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="310px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="15px" height="310px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 📇 First Name : `Nathan`
 - 👨 Age : `19`
 - 🌆 City : `Montpellier`
 - 🏢 College : [Epitech] (2 year)
+- 📫 *__How to contact me ?__*: [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
+
 
 - 🌱 I’m currently learning [C language]
-- 📫 *__How to contact me ?__*: [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
 
 ### Portfolio
 > 🎮 : [Video game](https://github.com/CatalanNathan/my_defender) (Only in linux)
