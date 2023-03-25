@@ -1,6 +1,5 @@
-<center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BF00F7&width=435&lines=Hello+!+It's+Nathan+%F0%9F%98%8A;I'm+a+Back+End+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+learning+new+things+%F0%9F%93%96)](https://git.io/typing-svg)
-</center>
+
 
 ## About me
 
@@ -23,11 +22,11 @@
 
 ### ✨ My Skills :
 
-<div align="center">
+<center>
 |        Icon        |             Language             |         Proficiency         |               Description               |
 |:------------------:|:--------------------------------:|:---------------------------:|:---------------------------------------:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="16" vertical-align="middle"/> | C | <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> | Test |
-</div>
+</center>
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatalanNathan&count_private=true&show_icons=true) 
