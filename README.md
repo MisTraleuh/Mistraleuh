@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" margin-top="15px" height="310px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="15px" width="400" height="290px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 📇 First Name : `Nathan`
 - 👨 Age : `19`
@@ -15,18 +15,9 @@
 - 🏢 College : `Epitech` (2 year)
 - 🪧 Current Projects:
   - [Seflbot Discord](https://github.com/CatalanNathan/Selfbot-Discord)
-    - a 
 - 📫 My contact details:
   - [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
   - [MisTrale#3654](https://discord.com/)
-
-
-### Portfolio
-> 🎮 : [Video game](https://github.com/CatalanNathan/my_defender) (Only in linux)
-
-> 📝 : [Projects College](https://github.com/CatalanNathan/Projects-Epitech) -> You can find many of my EPITECH projects here (Projects that are not present are in progress)
-
-> 📚 : [Personnal Projetcs](https://github.com/CatalanNathan?tab=repositories)
 
 ### 🧰 Languages and Tools I have tried :
 [![c](https://user-images.githubusercontent.com/91091263/144858700-d0791947-3af0-446e-90fe-d8843cd05169.png)](https://www.cprogramming.com/)
