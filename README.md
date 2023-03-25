@@ -15,7 +15,9 @@
 - 🏢 College : [Epitech] (2 year)
 - 🪧 Current Projects:
   - a
-- 📫 *__How to contact me ?__*: [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
+- 📫 My contact details:
+  - [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
+  - [MisTrale#3654](https://discord.com/)
 
 
 ### Portfolio
