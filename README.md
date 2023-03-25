@@ -22,11 +22,9 @@
 
 ### ✨ My Skills :
 
-<center>
 |        Icon        |             Language             |         Proficiency         |               Description               |
 |:------------------:|:--------------------------------:|:---------------------------:|:---------------------------------------:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="16" vertical-align="middle"/> | C | <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> <img src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/star-icon.png" width="16" vertical-align="middle"/> | Test |
-</center>
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatalanNathan&count_private=true&show_icons=true) 
