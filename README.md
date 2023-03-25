@@ -7,12 +7,14 @@
 
 <br>
 
-<img align="right" width="400" margin-top="15px" height="310px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="15px" height="310px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 📇 First Name : `Nathan`
 - 👨 Age : `19`
 - 🌆 City : `Montpellier`
 - 🏢 College : [Epitech] (2 year)
+- 🪧 Current Projects:
+  - a
 - 📫 *__How to contact me ?__*: [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
 
 
