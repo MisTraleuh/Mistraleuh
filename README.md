@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BF00F7&width=435&lines=Hello+!+It's+Nathan+%F0%9F%98%8A;I'm+a+Back-End+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+learning+new+things+%F0%9F%93%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=BF00F7&width=435&lines=Hello+!+It's+Nathan+%F0%9F%98%8A;I'm+a+Back-End+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+learning+new+things+%F0%9F%93%96)]
 
 
 ## ℹ️ About me
