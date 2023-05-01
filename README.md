@@ -19,6 +19,7 @@
 - 📫 My contact details:
   - [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
   - [MisTrale#3654](https://discord.com/)
+  - [Root-me Profile](root-me.org/MisTraleuh)
 
 ### ✨ My Skills :
 
