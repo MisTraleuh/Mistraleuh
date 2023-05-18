@@ -31,7 +31,7 @@
 
 |        Name         |             Language             |              Description               |
 |:-------------------:|:--------------------------------:|:--------------------------------------:|
-|   Selfbot-Discord   |     **NodeJS**  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="20" vertical-align="middle"/>   | A selfbot for discord, with a lot of commands, for fun, moderation, and more ! |
+|   <ins> Selfbot-Discord </ins>   |     **NodeJS**   | A selfbot for discord, with a lot of commands, for fun, moderation, and more ! |
 
 ## 📊 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatalanNathan&count_private=true&show_icons=true) 
