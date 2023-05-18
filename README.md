@@ -14,8 +14,6 @@
 - 👨 Age : `19`
 - 🌆 City : `Montpellier`
 - 🏢 College : `Epitech` (2 year)
-- 🪧 Current Projects:
-  - [Seflbot Discord](https://github.com/CatalanNathan/Selfbot-Discord)
 - 📫 My contact details:
   - [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
   - [MisTrale#3654](https://discord.com/)
@@ -29,6 +27,12 @@
 | <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="20" vertical-align="middle"/> | **NodeJS** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 2 Years of experience, I have done some private projects for client (More than 30) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20" vertical-align="middle"/> | **C++** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 3 Months of experience, I have done 3 projects (exemple: Recreate an virtual arcade machine) |
 
-## Stats
+## 🪧 My Current Projects
+
+|        Name         |             Language             |              Description               |
+|:-------------------:|:--------------------------------:|:--------------------------------------:|
+|   Selfbot-Discord   |     **NodeJS**  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="20" vertical-align="middle"/>   | A selfbot for discord, with a lot of commands, for fun, moderation, and more ! |
+
+## 📊 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatalanNathan&count_private=true&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatalanNathan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
