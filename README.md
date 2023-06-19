@@ -13,7 +13,7 @@
 - 📇 First Name : `Nathan`
 - 👨 Age : `19`
 - 🌆 City : `Montpellier`
-- 🏢 College : `Epitech` (2 year)
+- 🏢 College : `Epitech` (2 years)
 - 📫 My contact details:
   - [nathan.catalan@epitech.eu](https://www.google.com/intl/fr/gmail/about/)
   - [MisTrale#3654](https://discord.com/)
