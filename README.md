@@ -35,5 +35,5 @@
 |   <ins> Selfbot-Discord </ins>   |     **NodeJS**   | A selfbot for discord, with a lot of commands, for fun, moderation, and more ! |
 
 ## 📊 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatalanNathan&count_private=true&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatalanNathan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistraleuh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mistraleuh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
