@@ -28,7 +28,7 @@
 | <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="20" vertical-align="middle"/> | **NodeJS** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 2 Years of experience, I have done some private projects for client (More than 30) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20" vertical-align="middle"/> | **C++** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 3 Months of experience, I have done 3 projects (exemple: Recreate an virtual arcade machine) |
 
-## 🪧 My Current Projects
+## 📚 My Current Projects
 
 |              Name                |           Language          |                                    Description                                           |
 |:--------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------------:|
