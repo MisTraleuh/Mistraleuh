@@ -30,10 +30,11 @@
 
 ## 🪧 My Current Projects
 
-|              Name                |     Language     |                                 Description                                    |
-|:--------------------------------:|:----------------:|:------------------------------------------------------------------------------:|
-|   <ins> Selfbot-Discord </ins>   |     **NodeJS**   | A selfbot for discord, with a lot of commands, for fun, moderation, and more ! |
-|       <ins> Write-Ups </ins>     | **MD** & **Vue** |     Descriptions of all the ctf I've done, with very detailed explanations     |
+|              Name                |           Language          |                                    Description                                           |
+|:--------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------------:|
+|   <ins> Selfbot-Discord </ins>   |          **NodeJS**         |      A selfbot for discord, with a lot of commands, for fun, moderation, and more !      |
+|       <ins> Write-Ups </ins>     |       **MD** & **Vue**      |          Descriptions of all the ctf I've done, with very detailed explanations          |
+|       <ins> Chess Bot </ins>     | **HTML** & **JS** & **CSS** | Chess Bot integrates seamlessly with chess.com to provide real-time move suggestions     |
 
 ## 📊 My Stats
 
