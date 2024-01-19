@@ -40,3 +40,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh)
