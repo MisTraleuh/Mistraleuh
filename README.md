@@ -43,9 +43,12 @@
 
 ## <center> 📊 My Stats </center>
 
-<p>
-  <img align="left" width="440" height="550px" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
-  <img align="right" width="365" height="250px" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
-  <img align="right" width="365" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
-  <img align="right" width="365" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
+<p align="right">
+  <img style="display: inline-block; vertical-align: top; margin: 0;" width="365" height="250" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
+  <img style="display: inline-block; vertical-align: top; margin: 0;" width="365" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
+  <img style="display: inline-block; vertical-align: top; margin: 0;" width="365" height="250" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
 </p>
+<p align="left">
+  <img width="440" height="550" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
+</p>
+
