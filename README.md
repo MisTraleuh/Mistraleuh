@@ -1,9 +1,9 @@
 
-<center>
+<p align="center">
   <a href="https://github.com/MisTraleuh">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=EAF711&weight=100&pause=1000&vCenter=true&random=false&width=494&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7">
   </a>
-</center>
+</p>
 
 ## <center> ℹ️ About me </center>
 
