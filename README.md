@@ -43,7 +43,10 @@
 
 ## <center> 📊 My Stats </center>
 
-<img align="left" width="440" height="550px" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
-<img align="right" width="430" height="250px" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
-<img align="right" width="430" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
-<img align="right" width="430" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
+<p>
+  <img align="left" width="440" height="550px" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
+  <img align="right" width="430" height="250px" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
+  <img align="right" width="430" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
+  <img align="right" width="430" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
+</p>
+<br clear="all"/>
