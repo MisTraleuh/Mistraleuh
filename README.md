@@ -38,7 +38,7 @@
 |              Name                |           Language          |                                    Description                                           |
 |:--------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------------:|
 |       [Write-Ups](https://mistrale-wu.onrender.com/fr/)     |       **MD** & **Vue**      |          Descriptions of all the ctf I've done, with very detailed explanations          |
-|       [Object Walker Js](https://github.com/MisTraleuh/Object-Walker-Js)    | **JS** | a simple command that lets you search for any object in any other object. Without dependencies. |
+|       [Object-Walker-Js](https://github.com/MisTraleuh/Object-Walker-Js)    | **JS** | a simple command that lets you search for any object in any other object. Without dependencies. |
 |   [Selfbot-Discord](https://github.com/MisTraleuh/Selfbot-Discord)   |          **NodeJS**         |      A selfbot for discord, with a lot of commands, for fun, moderation, and more !      |
 
 ## <center> 📊 My Stats </center>
