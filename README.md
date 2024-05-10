@@ -43,6 +43,8 @@
 
 ## <center> 📊 My Stats </center>
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
+<img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
+
