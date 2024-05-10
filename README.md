@@ -49,4 +49,3 @@
   <img align="right" width="360" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
   <img align="right" width="360" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
 </p>
-<br clear="all"/>
