@@ -1,10 +1,10 @@
 
-<p align="center">
+<center>
   <a href="https://github.com/MisTraleuh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=EAF711&center=true&vCenter=true&random=true&width=353&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=EAF711&weight=100&pause=1000&vCenter=true&random=false&width=494&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7">
   </a>
-</p>
-
+</center>
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=EAF711&center=true&vCenter=true&random=true&width=353&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7
 ## <center> ℹ️ About me </center>
 
 <h3 align="center"> I am a developer with a passion for code, ready to take on any challenge and work tirelessly to achieve the goals set. 😄
@@ -43,8 +43,13 @@
 
 ## <center> 📊 My Stats </center>
 
-<img align="left" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
-<img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
+<p>
+  <img align="left" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
+  <span>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
+    <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
+  </span>
+</p>
+<br clear="all"/>
 
