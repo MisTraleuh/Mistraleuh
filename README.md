@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/MisTraleuh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=EAF711&center=true&vCenter=true&random=true&width=353&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=EAF711&center=true&vCenter=true&random=true&width=353&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7;I+love+brazilian+phonk+%F0%9F%A4%AF;Javascript+is+the+best+%F0%9F%98%9D;MisTrale+is+cool+%F0%9F%98%8E;MisTraleuh+is+like+venom+%F0%9F%95%B7%EF%B8%8F;Computer+lovers+%F0%9F%92%98;=Linux%2C+Ubuntu%2C+WSL+%F0%9F%AB%B6">
   </a>
 </p>
 
@@ -16,30 +16,36 @@
 
 - 📇 First Name : `Nathan`
 - 👨 Age : `20`
-- 🌆 City : `Montpellier`
-- 🏢 College : `Epitech` (3 years)
+- 🌆 City : `Bruxelles`
+- 🏢 College : `Epitech` (4 years)
 - 🖱️ Web site : https://mistraleuh.github.io/
 - 📫 My contact details:
   - [nathan.catalan@epitech.eu](mailto:nathan.catalan@epitech.eu)
   - [My Discord](https://discord.com/users/474143573928050710)
   - [Root-me Profile](https://www.root-me.org/MisTraleuh)
   - [Write-Ups](https://mistrale-wu.onrender.com/fr/)
+- 👀 My happy place: [here🫢](https://mistrale-wu.onrender.com/fr/) 
 
-### ✨ My Skills 
+### ✨ My Top Skills 
 
 |        Icon        |             Language             |         Proficiency         |               Description               |
 |:------------------:|:--------------------------------:|:---------------------------:|:---------------------------------------:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="20" vertical-align="middle"/> | **C** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 3 Year of experience, I have done 23 projects (example: remake a shell) |
-| <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="20" vertical-align="middle"/> | **NodeJS** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 5 Years of experience, I have done some private projects for client (More than 30) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20" vertical-align="middle"/> | **C++** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 1 Months of experience, I have done 3 projects (exemple: Recreate an virtual arcade machine) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="20" vertical-align="middle"/> | **C** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 7 Year of experience, I have done 50+ projects (example: remake a shell, create my language) |
+| <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="20" vertical-align="middle"/> | **NodeJS** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 8 Years of experience, I have done some private projects for client (30+) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20" vertical-align="middle"/> | **C++** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/>| 2 Years of experience, I have done 10+ projects (exemple: Recreate an virtual arcade machine) |
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp" width="20" vertical-align="middle"/> | **Flutter** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 2 Years of experience, I have done some private projects for client +5 (exemple: A coffee app like uber-eat for coffee) |
+| <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="20" vertical-align="middle"/> | **Python** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/>| 6 Years of experience, I have done 50+ projects (exemple: Create my own tool of steganography)|
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-coffeescript-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175056.png" width="20" vertical-align="middle"/> | **Coffee script** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> | 1 Years of experience, just for personnal knowledge |
+| <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="20" vertical-align="middle"/> | **Docker** | <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/> <img src="./assets/etoile.png" width="15" vertical-align="middle"/>| 6 Years of experience, just for fun (fun = debug client's machine 💀) |
 
 ## 📚 My Current Projects
 
 |              Name                |           Language          |                                    Description                                           |
 |:--------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------------:|
-|       [Write-Ups](https://mistrale-wu.onrender.com/fr/)     |       **MD** & **Vue**      |          Descriptions of all the ctf I've done, with very detailed explanations          |
+|       [Write-Ups](https://mistrale-wu.onrender.com/fr/)     |       **MD & Vue**      |          Descriptions of all the ctf I've done, with very detailed explanations          |
 |       [Object-Walker-Js](https://github.com/MisTraleuh/Object-Walker-Js)    | **JS** | a simple command that lets you search for any object in any other object. Without dependencies. |
 |   [Selfbot-Discord](https://github.com/MisTraleuh/Selfbot-Discord)   |          **NodeJS**         |      A selfbot for discord, with a lot of commands, for fun, moderation, and more !      |
+|   [Capierre](https://github.com/MisTraleuh/Capierre)   |          **Python**         |      My own steganography tool. Able to hide all types of information in files !      |
 
 ## <center> 📊 My Stats </center>
 
