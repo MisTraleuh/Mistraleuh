@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/MisTraleuh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=EAF711&center=true&vCenter=true&random=true&width=353&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7;I+love+brazilian+phonk+%F0%9F%A4%AF;Javascript+is+the+best+%F0%9F%98%9D;MisTrale+is+cool+%F0%9F%98%8E;MisTraleuh+is+like+venom+%F0%9F%95%B7%EF%B8%8F;Computer+lovers+%F0%9F%92%98;=Linux%2C+Ubuntu%2C+WSL+%F0%9F%AB%B6">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&color=EAF711&center=true&vCenter=true&random=true&width=353&height=35&lines=Hello+it's+MisTrale+%F0%9F%98%81;I+love+learning+new+things+%F0%9F%93%9A;I+love+CTF+%F0%9F%9A%A9;I+love+to+code+lots+of+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+love+listening+to+music+%F0%9F%8E%A7;I+love+brazilian+phonk+%F0%9F%A4%AF;Javascript+is+the+best+%F0%9F%98%9D;MisTrale+is+cool+%F0%9F%98%8E;MisTraleuh+is+like+venom+%F0%9F%95%B7%EF%B8%8F;Computer+lovers+%F0%9F%92%98;Linux%2C+Ubuntu%2C+WSL+%F0%9F%AB%B6">
   </a>
 </p>
 
