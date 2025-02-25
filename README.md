@@ -72,8 +72,6 @@
 
 <br clear="all" />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mistraleuh&theme=github-dark&count_private=true)
-
 <p align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistraleuh&theme=github-dark&include_all_commits=true" alt="Contribution Snake" width="100%" />
 </p>
