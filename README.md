@@ -66,7 +66,7 @@
   
   <img align="right" width="365" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact&theme=tokyonight&count_private=true" />
 
-  <img align="right" width="365" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight&count_private=true" />
+  <img align="right" width="365" height="250px" src="http://github-readme-streak-stats.herokuapp.com/?user=mistraleuh&theme=tokyonight&count_private=true" />
 
 </p>
 
