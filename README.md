@@ -15,16 +15,27 @@
 <img align="right" margin-top="15px" width="400" height="250px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 📇 First Name : `Nathan`
-- 👨 Age : `20`
+- 👨 Age : `21`
 - 🌆 City : `Bruxelles`
 - 🏢 College : `Epitech` (4 years)
+- 💼 Professional freelancer since 2 years
 - 🖱️ Web site : https://mistraleuh.github.io/
 - 📫 My contact details:
   - [nathan.catalan@epitech.eu](mailto:nathan.catalan@epitech.eu)
   - [My Discord](https://discord.com/users/474143573928050710)
   - [Root-me Profile](https://www.root-me.org/MisTraleuh)
   - [Write-Ups](https://mistrale-wu.onrender.com/fr/)
+  - [Fiverr](https://www.fiverr.com/mistrale)
 - 👀 My happy place: [here🫢](https://mistrale-wu.onrender.com/fr/) 
+- 📚 My stacks:
+  - **Frontend**: `Svelte`, `VueJS`, `ReactJS`, `Angular`
+  - **Backend**: `NodeJS`, `Express`, `Python`, `Flask`, `Django`
+  - **Mobile**: `Flutter` & `FlutterFlow`
+  - **Database**: `MongoDB`, `MySQL`, `Firebase Database`
+  - **DevOps**: `Docker`, `Kubernetes`, `CI/CD` (Jenkins, GitLab, GitHub Actions)
+
+⚡My approach combines cutting-edge technologies with clean architecture principles to deliver scalable, maintainable solutions that exceed client expectations
+
 
 ### ✨ My Top Skills 
 
@@ -38,7 +49,7 @@
 | <img src="https://cdn.iconscout.com/icon/free/png-256/free-coffeescript-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175056.png" width="20" vertical-align="middle"/> | **Coffee script** | 1 Years of experience, just for personnal knowledge |
 | <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="20" vertical-align="middle"/> | **Docker** | 6 Years of experience, just for fun (fun = debug client's machine 💀) |
 
-## 📚 My Current Projects
+## 📚 My Current Personnal Projects (but I'm currently on full-time freelance)
 
 |              Name                |           Language          |                                    Description                                           |
 |:--------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------------:|
@@ -51,8 +62,18 @@
 
 <p>
   <img align="left" width="440" height="550px" src="https://root-me-diff.vercel.app/rm-gh?nickname=MisTraleuh" />
-  <img align="right" width="365" height="250px" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight" />
-  <img align="right" width="365" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact" />
-  <img align="right" width="365" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight" />
+  <img align="right" width="365" height="250px" src="https://github-readme-stats.vercel.app/api?username=mistraleuh&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img align="right" width="365" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistraleuh&layout=compact&theme=tokyonight&count_private=true" />
+
+  <img align="right" width="365" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=mistraleuh&theme=tokyonight&count_private=true" />
+
 </p>
 
+<br clear="all" />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mistraleuh&theme=github-dark&count_private=true)
+
+<p align="center">
+  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
