@@ -71,6 +71,8 @@
 </p>
 
 <br clear="all" />
+<br clear="all" />
+<br clear="all" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistraleuh&theme=github-dark&include_all_commits=true" alt="Contribution Snake" width="100%" />
