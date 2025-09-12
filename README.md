@@ -16,8 +16,8 @@
 
 - 📇 First Name : `Nathan`
 - 👨 Age : `21`
-- 🌆 City : `Bruxelles`
-- 🏢 College : `Epitech` (4 years)
+- 🌆 City : `Montpellier`
+- 🏢 College : `Epitech` (5 years)
 - 💼 Professional freelancer since 2 years
 - 🖱️ Web site : https://mistraleuh.github.io/
 - 📫 My contact details:
