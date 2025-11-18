@@ -68,6 +68,7 @@
 
   <img align="right" width="365" height="250px" src="http://github-readme-streak-stats.herokuapp.com/?user=mistraleuh&theme=tokyonight&count_private=true" />
 
+  <img align="right" src="https://komarev.com/ghpvc/?username=MisTraleuh&label=Profile%20views&color=yellow&style=pixel" alt="Profile Views" />
 </p>
 
 <br clear="all" />
