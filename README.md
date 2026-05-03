@@ -135,3 +135,7 @@ const mistrale = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF711,50:1a1f29,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+
+<div align="center">
+  <sub>Last updated: May 3, 2026 · Made with ☕ and stubbornness by <a href="https://github.com/MisTraleuh">MisTrale</a></sub>
+</div>
