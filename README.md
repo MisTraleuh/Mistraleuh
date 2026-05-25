@@ -103,22 +103,40 @@ const mistrale = {
 
 ## <samp>// featured projects</samp>
 
-<div align="center">
-
-  <a href="https://github.com/MisTraleuh/Capierre">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mistraleuh&repo=Capierre&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711"/>
-  </a>
-  <a href="https://github.com/MisTraleuh/Object-Walker-Js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mistraleuh&repo=Object-Walker-Js&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711"/>
-  </a>
-  <a href="https://github.com/MisTraleuh/Selfbot-Discord">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mistraleuh&repo=Selfbot-Discord&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711"/>
-  </a>
-  <a href="https://mistraleuh.github.io/Fuck-Jails/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mistraleuh&repo=Fuck-Jails&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711"/>
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MisTraleuh/Capierre"><b>Capierre</b></a>
+      <br/>
+      <sub>Steganography tool for hiding and extracting data from images.</sub>
+      <br/><br/>
+      <code>Python</code> <code>Security</code> <code>CLI</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MisTraleuh/Object-Walker-Js"><b>Object-Walker-Js</b></a>
+      <br/>
+      <sub>JavaScript utility for traversing and manipulating deep object trees.</sub>
+      <br/><br/>
+      <code>JavaScript</code> <code>Library</code> <code>Tooling</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MisTraleuh/Selfbot-Discord"><b>Selfbot-Discord</b></a>
+      <br/>
+      <sub>Discord automation project built around bots, commands, and custom flows.</sub>
+      <br/><br/>
+      <code>Node.js</code> <code>Discord</code> <code>Automation</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mistraleuh.github.io/Fuck-Jails/"><b>Fuck-Jails</b></a>
+      <br/>
+      <sub>Sandbox and jail escape notes, experiments, and CTF-oriented tricks.</sub>
+      <br/><br/>
+      <code>Security</code> <code>CTF</code> <code>Research</code>
+    </td>
+  </tr>
+</table>
 
 ## <samp>// github metrics</samp>
 
@@ -141,5 +159,5 @@ const mistrale = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF711,50:1a1f29,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
 <div align="center">
-  <sub>Last updated: May 3, 2026 · Made with ☕ and stubbornness by <a href="https://github.com/MisTraleuh">MisTrale</a></sub>
+  <sub>Last updated: May 25, 2026 · Made with ☕ and stubbornness by <a href="https://github.com/MisTraleuh">MisTrale</a></sub>
 </div>
