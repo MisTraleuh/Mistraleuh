@@ -1,0 +1,65 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/readme-cards.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Generate Capierre pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=mistraleuh&repo=Capierre&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711
+          path: profile/pin-capierre.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Object-Walker-Js pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=mistraleuh&repo=Object-Walker-Js&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711
+          path: profile/pin-object-walker-js.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Selfbot-Discord pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=mistraleuh&repo=Selfbot-Discord&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711
+          path: profile/pin-selfbot-discord.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Fuck-Jails pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=mistraleuh&repo=Fuck-Jails&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EAF711&icon_color=EAF711
+          path: profile/pin-fuck-jails.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

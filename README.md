@@ -103,40 +103,22 @@ const mistrale = {
 
 ## <samp>// featured projects</samp>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MisTraleuh/Capierre"><b>Capierre</b></a>
-      <br/>
-      <sub>Steganography tool for hiding and extracting data from images.</sub>
-      <br/><br/>
-      <code>Python</code> <code>Security</code> <code>CLI</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MisTraleuh/Object-Walker-Js"><b>Object-Walker-Js</b></a>
-      <br/>
-      <sub>JavaScript utility for traversing and manipulating deep object trees.</sub>
-      <br/><br/>
-      <code>JavaScript</code> <code>Library</code> <code>Tooling</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MisTraleuh/Selfbot-Discord"><b>Selfbot-Discord</b></a>
-      <br/>
-      <sub>Discord automation project built around bots, commands, and custom flows.</sub>
-      <br/><br/>
-      <code>Node.js</code> <code>Discord</code> <code>Automation</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://mistraleuh.github.io/Fuck-Jails/"><b>Fuck-Jails</b></a>
-      <br/>
-      <sub>Sandbox and jail escape notes, experiments, and CTF-oriented tricks.</sub>
-      <br/><br/>
-      <code>Security</code> <code>CTF</code> <code>Research</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <a href="https://github.com/MisTraleuh/Capierre">
+    <img src="./profile/pin-capierre.svg" alt="Capierre"/>
+  </a>
+  <a href="https://github.com/MisTraleuh/Object-Walker-Js">
+    <img src="./profile/pin-object-walker-js.svg" alt="Object-Walker-Js"/>
+  </a>
+  <a href="https://github.com/MisTraleuh/Selfbot-Discord">
+    <img src="./profile/pin-selfbot-discord.svg" alt="Selfbot-Discord"/>
+  </a>
+  <a href="https://github.com/MisTraleuh/Fuck-Jails">
+    <img src="./profile/pin-fuck-jails.svg" alt="Fuck-Jails"/>
+  </a>
+
+</div>
 
 ## <samp>// github metrics</samp>
 
