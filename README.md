@@ -123,7 +123,7 @@ const mistrale = {
 ## <samp>// github metrics</samp>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mistraleuh&theme=tokyonight&hide_border=true&background=0d1117&ring=EAF711&fire=EAF711&currStreakLabel=EAF711"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=mistraleuh&theme=tokyonight&hide_border=true&background=0d1117&ring=EAF711&fire=EAF711&currStreakLabel=EAF711&v=2"/>
 </div>
 
 <p align="center">
