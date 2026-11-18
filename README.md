@@ -127,7 +127,7 @@ const mistrale = {
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistraleuh&theme=tokyo-night&include_all_commits=true&hide_border=true&bg_color=0d1117&line=EAF711&point=ffffff" alt="activity" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistraleuh&theme=tokyo-night&include_all_commits=true&hide_border=true&bg_color=0d1117&line=EAF711&point=ffffff&v=2" alt="activity" width="100%"/>
 </p>
 
 <br/>
